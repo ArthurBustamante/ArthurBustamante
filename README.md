@@ -1,16 +1,15 @@
-## Hi there 👋
+###
 
-<!--
-**ArthurBustamante/ArthurBustamante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, Arthur here👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">🛠 Language and tools</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img width="12" />
