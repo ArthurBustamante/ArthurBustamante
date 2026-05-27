@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRydTJ1dDM5NTcydXRmZzZ5cnd5ODZzNTFoZ2VpbmNtdjNjbnA4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
+</div>
+
+
 ###
 
 <h1 align="center">Hi, Arthur here👋</h1>
