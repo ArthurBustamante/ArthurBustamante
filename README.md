@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hi, Arthur here👋</h1>
+<h1 align="center"><style color: red;>Hi, Arthur here👋</h1>
 
 <h3 align="center">🛠 Language and tools</h3>
 
